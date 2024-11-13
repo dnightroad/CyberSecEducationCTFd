@@ -3,6 +3,8 @@ This is a cybersecurity education project, a fully set CTFd framework with chall
 
 A complete CTFd setup with a variaety of cybersecurity challenges aimed towards educating students on cybersecurity topics.
 
+If you want to customize it on your own you can use the base image from docker directly > docker pull ctfd/ctfd
+
 Use admin/n0tpa33w0rd to test it 
 
 <img width="805" alt="Screenshot 2022-07-18 at 17 53 23" src="https://user-images.githubusercontent.com/85787930/179539389-b6f8f1b6-7edf-4b0f-940b-d89023305135.png">
